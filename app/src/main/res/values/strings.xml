@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sprout</string>
+    <string name="tagline">Little Minds • Big Adventures</string>
+    <string name="welcome_hi">Hi there!</string>
+    <string name="what_to_learn">What shall we learn today?</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="numbers">Numbers</string>
+    <string name="explorer">Explorer</string>
+    <string name="games">Games</string>
+    <string name="colors">Colors</string>
+    <string name="shapes">Shapes</string>
+    <string name="stories">Stories</string>
+    <string name="animals">Animals</string>
+    <string name="drawing">Drawing</string>
+    <string name="puzzle">Puzzles</string>
+    <string name="parent_corner">Parent Corner</string>
+    <string name="alphabet_fun">Alphabet Fun</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="your_mission">Your Mission:</string>
+    <string name="find_a_plant">Can you find a %1$s?</string>
+    <string name="point_camera">Point the camera at it!</string>
+    <string name="found_it">You found it! Great job!</string>
+    <string name="parent_dashboard">Parent Dashboard</string>
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="activities_done">Activities Done</string>
+    <string name="stars_earned">Stars Earned</string>
+    <string name="screen_time">Screen Time</string>
+    <string name="recent_badges">Recent Badges</string>
+    <string name="reset_progress">Reset Progress</string>
+
+    <string name="parental_gate_question">For Parents Only: What is %1$d + %2$d?</string>
+    <string name="parental_gate_hint">Answer</string>
+    <string name="verify">Verify</string>
+    <string name="incorrect_try_again">Incorrect. Try again!</string>
+
+    <string name="story_time">Story Time</string>
+    <string name="listen_to_story">Listen to Story</string>
+    <string name="shape_fun">Shape Fun</string>
+    <string name="animal_fun">Animal Kingdom</string>
+    <string name="art_studio">Art Studio</string>
+
+    <string name="super_job">Super Job!</string>
+    <string name="earned_stars">You earned %1$d Stars!</string>
+    <string name="keep_learning">Keep Learning!</string>
+
+    <string name="drag_instruction">Drag the %1$s to its matching spot!</string>
+    <string name="amazing_match">Amazing! You matched it!</string>
+    <string name="badge_earned">Badge Earned!</string>
+    <string name="star">star</string>
+</resources>

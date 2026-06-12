@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="sprout_bg">#1A1A40</color>
+    <color name="sprout_yellow">#FFCE45</color>
+    <color name="sprout_teal">#27B1BE</color>
+    <color name="sprout_pink">#FF6B6B</color>
+    <color name="sprout_orange">#FF8E4F</color>
+    <color name="sprout_purple">#6C63FF</color>
+    <color name="sprout_green">#4CAF50</color>
+    <color name="sprout_red">#FF0000</color>
+    <color name="sprout_blue">#0000FF</color>
+    <color name="sprout_gray">#808080</color>
+    <color name="sprout_brown">#8B4513</color>
+    <color name="sprout_light_blue">#ADD8E6</color>
+    <color name="sprout_light_green">#90EE90</color>
+
+
+    <color name="sprout_card_bg">#2D2D5F</color>
+</resources>
